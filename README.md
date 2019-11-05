@@ -1,6 +1,6 @@
-﻿# Processador de Arquivos
+﻿# Prova Prática Java
 
-Prova técnica Java enviada pela empresa TOTVS.
+Prova Java enviada pela empresa TOTVS.
 
 ## Características
 
@@ -53,7 +53,7 @@ Projeto licenciado sob <a href="LICENSE">The MIT License (MIT)</a>.
 ![Screenshots](screenshots/screenshot01.png)<br><br>
 
 
-Developed by<br>
+Desenvolvido por<br>
 Danilo Meneghel<br>
 danilo.meneghel@gmail.com<br>
 http://danilomeneghel.github.io/<br>
